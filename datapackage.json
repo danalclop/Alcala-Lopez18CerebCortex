@@ -111,11 +111,6 @@
             "type": "string",
             "format": "default"
           },
-          {
-            "name": "field7",
-            "type": "any",
-            "format": "default"
-          }
         ]
       }
     },
