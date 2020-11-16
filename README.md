@@ -19,3 +19,7 @@ Neuroimaging files in compressed NIfTI format (.nii.gz) are available in the [AN
  - Resource #3 ([ASJ+18-Table2a.csv](https://github.com/danalclop/Alcala-Lopez18CerebCortex/blob/main/data/ASJ%2B18-Table2a.csv)) corresponds to a part of the of the ```Table 2``` reported by Alcalá-López et al. (2018). It includes the labels, coordinates, and macroanatomical description of the brain regions used in the study as seeds for the meta-analytic connectivity modeling and the resting-state functional connectivity analyses. It also includes the corresponding color codes (Hex code) used in the figures to display each seed.
 
  - Resource #4 ([ASJ+18-Table2b.csv](https://github.com/danalclop/Alcala-Lopez18CerebCortex/blob/main/data/ASJ%2B18-Table2b.csv) corresponds to the remaining part of the ```Table 2``` reported by Alcalá-López et al. (2018). It includes the microanatomical description of each seed as identified using the [JuBrain Anatomy Toolbox](https://github.com/inm7/jubrain-anatomy-toolbox), as well as their associated probability based on the combination of probabilistic cytoarchitectonic maps and functional imaging data.
+ 
+ ## Bonus
+ 
+ Janneke van Leeuwen created an extraordinary visualization of the Social Brain Atlas introduced by Alcalá-López et al. (2018) as part of her PhD research on visual imagination. You can see the visualization on [her personal website](https://www.thinkingeye.org/social-brain-atlas).
