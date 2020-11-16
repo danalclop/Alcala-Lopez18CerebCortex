@@ -1,57 +1,57 @@
-﻿ID;CognitiveProcess;;;
-BMK13;Decision-making;;;
-BMK13;Reward processing;;;
-BMK13;Valuation system;;;
-BSA+12;Emotional faces ;;;
-BLC+11;Face judgment;;;
-BLC+11;Trustworthiness;;;
-BLC+11;Attractiveness ;;;
-BSV+12;Morality;;;
-BSV+12;Theory of Mind;;;
-BSV+12;Empathy ;;;
-CZL+10;Action observation;;;
-CZL+10;Imitation;;;
-CZL+10;Mirror neurons ;;;
-DGF+11;Emotion regulation;;;
-DGF+11;Cognitive reappraisal ;;;
-FDG+11;Empathy;;;
-FDG+11;Emotion ;;;
-FPC+09a;Emotional processing;;;
-FPC+09a;Face processing;;;
-FPC+09a;Lateralization ;;;
-FPC+09b;Emotional processing;;;
-FPC+09b;Face processing;;;
-KES+14;Emotion regulation ;;;
-KZF+10;Empathy;;;
-KZF+10;Emotion ;;;
-LEK+09;Default-Mode Network ;;;
-LDS11;Empathy for pain ;;;
-LHS+11;Reward valence;;;
-M11;Theory of mind;;;
-M11;Story comprehension ;;;
-MST13;Face evaluation;;;
-MST13;Attractiveness;;;
-MST13;Trustworthiness ;;;
-MCM09;Imitation;;;
-MCM09;Mirror neurons ;;;
-QLS+12;Familiarity ;;;
-SBT+12;Emotional processing;;;
-SBT+12;Social cognition;;;
-SBT+12;Unconstrained cognition ;;;
-SCS+13;Reward processing ;;;
-SS14;Moral decision-making;;;
-SS14;Moral emotions processing;;;
-SWY13;Implicit emotional face processing ;;;
-S13;Social categorization;;;
-S13;In-group versus out-group ;;;
-SMK09;Autobiographical memory;;;
-SMK09;Prospection;;;
-SMK09;Navigation;;;
-SMK09;Theory of Mind;;;
-SMK09;Default Mode Network ;;;
-SS09;Emotion;;;
-SS09;Cerebellum ;;;
-OBM+14;Mirroring;;;
-OBM+14;Event mentalizing;;;
-OBM+14;Person mentalizing;;;
-OBM+14;Abstraction;;;
+ID;CognitiveProcess
+BMK13;Decision-making
+BMK13;Reward processing
+BMK13;Valuation system
+BSA+12;Emotional faces
+BLC+11;Face judgment
+BLC+11;Trustworthiness
+BLC+11;Attractiveness
+BSV+12;Morality
+BSV+12;Theory of Mind
+BSV+12;Empathy
+CZL+10;Action observation
+CZL+10;Imitation
+CZL+10;Mirror neurons
+DGF+11;Emotion regulation
+DGF+11;Cognitive reappraisal
+FDG+11;Empathy
+FDG+11;Emotion
+FPC+09a;Emotional processing
+FPC+09a;Face processing;;
+FPC+09a;Lateralization
+FPC+09b;Emotional processing
+FPC+09b;Face processing
+KES+14;Emotion regulation
+KZF+10;Empathy
+KZF+10;Emotion
+LEK+09;Default-Mode Network
+LDS11;Empathy for pain
+LHS+11;Reward valence
+M11;Theory of mind
+M11;Story comprehension
+MST13;Face evaluation
+MST13;Attractiveness
+MST13;Trustworthiness
+MCM09;Imitation
+MCM09;Mirror neurons
+QLS+12;Familiarity
+SBT+12;Emotional processing
+SBT+12;Social cognition
+SBT+12;Unconstrained cognition
+SCS+13;Reward processing
+SS14;Moral decision-making
+SS14;Moral emotions processing
+SWY13;Implicit emotional face processing
+S13;Social categorization
+S13;In-group versus out-group
+SMK09;Autobiographical memory
+SMK09;Prospection
+SMK09;Navigation
+SMK09;Theory of Mind
+SMK09;Default Mode Network
+SS09;Emotion
+SS09;Cerebellum
+OBM+14;Mirroring
+OBM+14;Event mentalizing
+OBM+14;Person mentalizing
+OBM+14;Abstraction
