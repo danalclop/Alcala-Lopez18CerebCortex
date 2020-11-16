@@ -1,0 +1,57 @@
+﻿Seed,MicroAnat,Probabilty
+IFG_R,Area 45,0.545
+IFG_R,Area 44,0.015
+HC_L,CA3,0.630
+HC_L,Subiculum,0.165
+HC_L,CA2,0.120
+HC_L,DG,0.020
+HC_R,CA3,0.385
+HC_R,Subiculum,0.270
+HC_R,CA2,0.070
+HC_R,DG,0.040
+rACC,,
+vmPFC,,
+AM_R,LB,0.510
+AM_R,SF,0.205
+AM_R,CM,0.080
+AM_L,LB,0.570
+AM_L,CM,0.300
+NAC_L,,
+NAC_R,,
+MTG_L,,
+Prec,,
+TPJ_R,Area PGa (IPL),0.705
+TPJ_R,Area PGp (IPL),0.105
+MTG_R,,
+TP_L,,
+TP_R,,
+FP,Area Fp2,0.909
+PCC,,
+dmPFC,,
+TPJ_L,Area PGa (IPL),0.985
+TPJ_L,Area PGp (IPL),0.070
+pMCC,,
+MT/V5_L,,
+MT/V5_R,Area hOc4la ,0.315
+MT/V5_R,Area hOc5 [MT/V5] ,0.300
+FG_L,Area FG4 ,0.545
+FG_L,Area FG2 ,0.455
+FG_R,Area FG4 ,0.710
+FG_R,Area FG2 ,0.290
+pSTS_L,,
+pSTS_R,,
+SMA_L,Rostral PMd ,
+AI_L,,
+SMG_R,Area PFt (IPL),0.10
+Cereb_R,Lobule VIIa crus I,0.775
+Cereb_R,Lobule VI,0.225
+Cereb_L,Lobule VI,0.555
+Cereb_L,Lobule VIIa crus I,0.430
+AI_R,,
+SMG_R,Area PFt ,0.330
+SMG_R,Area hIP2,0.235
+SMG_R,Area 2,0.130
+SMG_R,Area hIP3 ,0.110
+SMA_R,Rostral PMd ,
+IFG_L,,
+aMCC,,
