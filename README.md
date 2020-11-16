@@ -4,7 +4,7 @@
 
 <img src="https://github.com/danalclop/Alcala-Lopez18CerebCortex/blob/main/coverPic.png" alt="cover image with figures from the scientific publication: Computing the Social Brain Connectome Across Systems and States">
 
-This repository includes a Data Package with the tabular data included in the publication:
+This repository includes a Data Package with the tabular data included in the (free-to-view) publication:
 
 > Daniel Alcalá-López, Jonathan Smallwood, Elizabeth Jefferies, Frank Van Overwalle, Kai Vogeley, Rogier B Mars, Bruce I Turetsky, Angela R Laird, Peter T Fox, Simon B Eickhoff, Danilo Bzdok, Computing the Social Brain Connectome Across Systems and States, *Cerebral Cortex*, Volume 28, Issue 7, July 2018, Pages 2207–2232, [https://doi.org/10.1093/cercor/bhx121](https://doi.org/10.1093/cercor/bhx121)  
 > © 2017 Oxford University Press.
