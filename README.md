@@ -8,7 +8,7 @@ This repository includes a Data Package with the tabular data included in the pu
 
 A Data Package is a simple container format used to describe and package a collection of data. Data Packages are one of the Frictionless Data tools, an open-source toolkit created by the [Frictionless Data](https://frictionlessdata.io), an [Open Knowledge Foundation](https://okfn.org) project. It brings simplicity and gracefulness to the open data experience. For more information, see the [documentation](https://frictionlessdata.io/data-package/).
 
-For the corresponding neuroimaging data, see: [https://anima.inm7.de/studies/AlcalaLopez_Social_Connectome_2017](https://anima.inm7.de/studies/AlcalaLopez_Social_Connectome_2017)
+Neuroimaging files in compressed NIfTI format (.nii.gz) are available in the ANIMA open database: [https://anima.inm7.de/studies/AlcalaLopez_Social_Connectome_2017](https://anima.inm7.de/studies/AlcalaLopez_Social_Connectome_2017)
 
 ## Contents
 
