@@ -1,37 +1,37 @@
-﻿Seed,MacroAnat,X,Y,Z,Hex,
-IFG_R,Right inferior frontal gyrus,48,24,2,#000000,
-HC_L,Left hippocampus,-24,-18,-17,#BE454B,
-HC_R,Right hippocampus,25,-19,-15,#C00005,
-rACC,Rostral anterior cingulate cortex,-3,41,4,#C70006,
-vmPFC,Ventromedial prefrontal cortex,2,45,-15,#C00005,
-AM_R,Right amygdala,23,-3,-18,#EF0008,
-AM_L,Left amygdala,-21,-4,-18,#EF1509,
-NAC_L,Left nucleus accumbens,-13,11,-8,#F26B0A,
-NAC_R,Right nucleus accumbens,11,10,-7,#F49D0C,
-MTG_L,Left middle temporal gyrus,-56,-14,-13,#F8BF0B,
-Prec,Precuneus,-1,-59,41,#F1DA08,
-TPJ_R,Right temporo-parietal junction,54,-55,20,#E3F00A,
-MTG_R,Right middle temporal gyrus,56,-10,-17,#C2FD08,
-TP_L,Left temporal pole,-48,8,-36,#84FF02,
-TP_R,Right temporal pole,53,7,-26,#44FF03,
-FP,Medial frontal pole,1,58,10,#41F701,
-PCC,Posterior cingulate cortex,-1,-54,23,#3BE106,
-dmPFC,Dorsomedial prefrontal cortex,-4,53,31,#35C906,
-TPJ_L,Left temporo-parietal junction,-49,-61,27,#299A01,
-pMCC,Posterior midcingulate cortex,,,,#258D0F,
-MT/V5_L,Left middle temporal V5 area,-50,-66,5,#29984B,
-MT/V5_R,Right middle temporal V5 area,50,-66,6,#2B9C7D,
-FG_L,Left fusiform gyrus,-42,-62,-16,#2B9A91,
-FG_R,Right fusiform gyrus,43,-57,-19,#2B94AC,
-pSTS_L,Left posterior superior temporal sulcus,-56,-39,2,#2988CD,
-pSTS_R,Right posterior superior temporal gyrus,54,-39,0,#2574D4,
-SMA_L,Left supplementary motor area,-41,6,45,#2060D3,
-AI_L,Left anterior insula,-34,19,0,#130CD4,
-SMG_R,Right supramarginal gyrus,54,-30,38,#1200CB,
-Cereb_R,Right cerebellum,28,-70,-30,#0F00AA,
-Cereb_L,Left cerebellum,-21,-66,-35,#190093,
-AI_R,Right anterior insula,38,18,-3,#58008A,
-SMG_R,Left supramarginal gyrus,-41,-41,42,#6D0081,
-SMA_R,Right supplementary motor area,48,6,35,#650077,
-IFG_L,Left inferior frontal gyrus,-45,27,-3,#320239,
-aMCC,Anterior mid-cingulate cortex,1,25,30,#31023A,
+Seed,MacroAnat,X,Y,Z,Hex
+IFG_R,Right inferior frontal gyrus,48,24,2,#000000
+HC_L,Left hippocampus,-24,-18,-17,#BE454B
+HC_R,Right hippocampus,25,-19,-15,#C00005
+rACC,Rostral anterior cingulate cortex,-3,41,4,#C70006
+vmPFC,Ventromedial prefrontal cortex,2,45,-15,#C00005
+AM_R,Right amygdala,23,-3,-18,#EF0008
+AM_L,Left amygdala,-21,-4,-18,#EF1509
+NAC_L,Left nucleus accumbens,-13,11,-8,#F26B0A
+NAC_R,Right nucleus accumbens,11,10,-7,#F49D0C
+MTG_L,Left middle temporal gyrus,-56,-14,-13,#F8BF0B
+Prec,Precuneus,-1,-59,41,#F1DA08
+TPJ_R,Right temporo-parietal junction,54,-55,20,#E3F00A
+MTG_R,Right middle temporal gyrus,56,-10,-17,#C2FD08
+TP_L,Left temporal pole,-48,8,-36,#84FF02
+TP_R,Right temporal pole,53,7,-26,#44FF03
+FP,Medial frontal pole,1,58,10,#41F701
+PCC,Posterior cingulate cortex,-1,-54,23,#3BE106
+dmPFC,Dorsomedial prefrontal cortex,-4,53,31,#35C906
+TPJ_L,Left temporo-parietal junction,-49,-61,27,#299A01
+pMCC,Posterior midcingulate cortex,,,,#258D0F
+MT/V5_L,Left middle temporal V5 area,-50,-66,5,#29984B
+MT/V5_R,Right middle temporal V5 area,50,-66,6,#2B9C7D
+FG_L,Left fusiform gyrus,-42,-62,-16,#2B9A91
+FG_R,Right fusiform gyrus,43,-57,-19,#2B94AC
+pSTS_L,Left posterior superior temporal sulcus,-56,-39,2,#2988CD
+pSTS_R,Right posterior superior temporal gyrus,54,-39,0,#2574D4
+SMA_L,Left supplementary motor area,-41,6,45,#2060D3
+AI_L,Left anterior insula,-34,19,0,#130CD4
+SMG_R,Right supramarginal gyrus,54,-30,38,#1200CB
+Cereb_R,Right cerebellum,28,-70,-30,#0F00AA
+Cereb_L,Left cerebellum,-21,-66,-35,#190093
+AI_R,Right anterior insula,38,18,-3,#58008A
+SMG_R,Left supramarginal gyrus,-41,-41,42,#6D0081
+SMA_R,Right supplementary motor area,48,6,35,#650077
+IFG_L,Left inferior frontal gyrus,-45,27,-3,#320239
+aMCC,Anterior mid-cingulate cortex,1,25,30,#31023A
