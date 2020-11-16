@@ -1,5 +1,5 @@
-﻿ID;Reference;Studies;Subjects;Foci;Technique
-BMK13;"""Bartra O, McGuire JT, Kable JW. 2013. The valuation system: a coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value. Neuroimage. 76:412–427.""";206;3857;3933;fMRI
+ID,Reference,Studies,Subjects,Foci,Technique
+BMK13,"Bartra O, McGuire JT, Kable JW. 2013. The valuation system: a coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value. Neuroimage. 76:412–427.",206,3857,3933,fMRI
 BSA+12;"""Brooks SJ, Savov V, Allzén E, Benedict C, Fredriksson R, Schiöth HB. 2012. Exposure to subliminal arousing stimuli induces robust activation in the amygdala, hippocampus, anterior cingulate, insular cortex and primary visual cortex: a systematic meta-analysis of fMRI studies. NeuroImage. 59(3):2962–2973.""";12 ;217 ;274 ;fMRI 
 BLC+11;"""Bzdok D, Langner R, Caspers S, Kurth F, Habel U, Zilles K, Laird A, Eickhoff SB. 2011. ALE meta-analysis on facial judgments of trustworthiness and attractiveness. Brain Struct Funct. 215:209–223.""";16 ;390 ;268 ;fMRI 
 BSV+12;"""Bzdok D, Schilbach L, Vogeley K, Schneider K, Laird AR, Langner R, Eickhoff SB. 2012b. Parsing the neural correlates of moral cognition: ALE meta-analysis on morality, theory of mind, and empathy. Brain Struct Funct. 217:783–796.""";107 ;1790 ;2607 ;fMRI and PET 
