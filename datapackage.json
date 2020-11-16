@@ -141,7 +141,7 @@
           },
           {
             "name": "Probabilty",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "Probability",
             "description": "Probability of the seed region to occupy the location of the microanatomical region identified in the MicroAnat column based on the combination of probabilistic cytoarchitectonic maps and functional imaging data."
