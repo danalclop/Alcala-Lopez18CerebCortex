@@ -1,0 +1,188 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "name": "table1a",
+            "path": "https://raw.githubusercontent.com/danalclop/Alcala-Lopez18CerebCortex/main/data/ASJ%2B18-Table1a.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ID",
+                        "type": "string",
+                        "format": "default",
+                        "title": "Identification reference",
+                        "description": "Identification number of the meta-analytic study"
+                    },
+                    {
+                        "name": "Reference",
+                        "type": "string",
+                        "format": "default",
+                        "description": "Complete bibliographic reference of the meta-analytic study",
+                        "title": "Complete bibliographic reference"
+                    },
+                    {
+                        "name": "Studies",
+                        "type": "integer",
+                        "format": "default",
+                        "title": "Number of studies",
+                        "description": "Number of original studies included in the meta-analytic study"
+                    },
+                    {
+                        "name": "Subjects",
+                        "type": "integer",
+                        "format": "default",
+                        "title": "Number of subjects",
+                        "description": "Total number of subjects (from all original studies) included in the meta-analytic study"
+                    },
+                    {
+                        "name": "Foci",
+                        "type": "integer",
+                        "format": "default",
+                        "title": "Number of foci",
+                        "description": "Total number of activation foci (from all original studies) included in the meta-analytic study"
+                    },
+                    {
+                        "name": "Technique",
+                        "type": "string",
+                        "format": "default",
+                        "title": "Neuroimaging technique",
+                        "description": "Neuroimaging technique used in the meta-analytical study"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "name": "table1b",
+            "path": "https://raw.githubusercontent.com/danalclop/Alcala-Lopez18CerebCortex/main/data/ASJ%2B18-Table1b_invalid.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "ID",
+                        "type": "string",
+                        "format": "default",
+                        "description": "Identification number of the meta-analytic study",
+                        "title": "Identification reference"
+                    },
+                    {
+                        "name": "CognitiveProcess",
+                        "type": "string",
+                        "format": "default",
+                        "title": "Cognitive process of interest",
+                        "description": "Cognitive process of interest studied in the meta-analysis"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "name": "table2a",
+            "path": "https://raw.githubusercontent.com/danalclop/Alcala-Lopez18CerebCortex/main/data/ASJ%2B18-Table2a.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Seed",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "MacroAnat",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "X",
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Y",
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Z",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Hex",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "name": "table2b",
+            "path": "https://raw.githubusercontent.com/danalclop/Alcala-Lopez18CerebCortex/main/data/ASJ%2B18-Table2b.csv",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "Seed",
+                        "type": "string",
+                        "format": "default",
+                        "title": "Seed tag",
+                        "description": "Anatomical label of the seed region chosen a priori"
+                    },
+                    {
+                        "name": "MicroAnat",
+                        "type": "string",
+                        "format": "default",
+                        "description": "Name of the microanatomical region identified  using the JuBrain Anatomy Toolbox (https://github.com/inm7/jubrain-anatomy-toolbox)",
+                        "title": "Microanatomical region"
+                    },
+                    {
+                        "name": "Probabilty",
+                        "type": "number",
+                        "format": "default",
+                        "title": "Probability",
+                        "description": "Probability of the seed region to occupy the location of the microanatomical region identified in the MicroAnat column based on the combination of probabilistic cytoarchitectonic maps and functional imaging data."
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ],
+    "keywords": [
+        "meta-analysis",
+        "social cognition",
+        "social brain",
+        "BrainMap database",
+        "meta-analytic connectivity modeling",
+        "functional connectivity",
+        "resting-state fMRI",
+        "fMRI"
+    ],
+    "name": "asj18cerebcortex",
+    "title": "ASJ+18CerebCortex",
+    "description": "This Data Package includes tabular data from the publication \"Computing the Social Brain Connectome Across Systems and States\" (https://doi.org/10.1093/cercor/bhx121).",
+    "homepage": "https://doi.org/10.1093/cercor/bhx121",
+    "version": "1.0.0",
+    "contributors": [
+        {
+            "title": "D Alcala-Lopez",
+            "role": "author"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "CC-BY-4.0",
+            "title": "Creative Commons Attribution 4.0",
+            "path": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ]
+}
