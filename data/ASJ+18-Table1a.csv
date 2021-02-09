@@ -1,4 +1,4 @@
-ID,Reference,Studies,Subjects,Foci
+ID,Reference,Studies,Subjects,Foci,Technique
 BMK13,"Bartra O, McGuire JT, Kable JW. 2013. The valuation system: a coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value. Neuroimage. 76:412–427.",206,3857,3933,fMRI
 BSA+12,"Brooks SJ, Savov V, Allzén E, Benedict C, Fredriksson R, Schiöth HB. 2012. Exposure to subliminal arousing stimuli induces robust activation in the amygdala, hippocampus, anterior cingulate, insular cortex and primary visual cortex: a systematic meta-analysis of fMRI studies. NeuroImage. 59(3):2962–2973.",12,217,274,fMRI
 BLC+11,"Bzdok D, Langner R, Caspers S, Kurth F, Habel U, Zilles K, Laird A, Eickhoff SB. 2011. ALE meta-analysis on facial judgments of trustworthiness and attractiveness. Brain Struct Funct. 215:209–223.",16,390,268,fMRI
@@ -6,7 +6,6 @@ BSV+12,"Bzdok D, Schilbach L, Vogeley K, Schneider K, Laird AR, Langner R, Eickh
 CZL+10,"Caspers S, Zilles K, Laird AR, Eickhoff SB. 2010. ALE meta-analysis of action observation and imitation in the human brain. NeuroImage. 50:1148–1167.",87,1289,1933,fMRI and PET
 DGF+11,"Diekhof EK, Geier K, Falkai P, Gruber O. 2011. Fear is only as deep as the mind allows: a coordinate-based meta-analysis of neuroimaging studies on the regulation of negative affect. Neuroimage. 58:275–285.",49,818,379,fMRI and PET
 FDG+11,"Fan Y, Duncan NW, de Greck M, Northoff G. 2011. Is there a core neural network in empathy? An fMRI based quantitative meta-analysis. Neurosci Biobehav Rev. 35:903–911.",40,,664,fMRI
-FPC+09a,"Fusar-Poli P, Placentino A, Carletti F, Allen P, Landi P, Abbamonte M, Barale F, Perez J, McGuire P, Politi PL. 2009a. Laterality effect on emotional faces processing: ALE meta-analysis of evidence. Neurosci Lett. 452(3):262–267.",105,1600,1785,fMRI
 FPC+09a,"Fusar-Poli P, Placentino A, Carletti F, Allen P, Landi P, Abbamonte M, Barale F, Perez J, McGuire P, Politi PL. 2009a. Laterality effect on emotional faces processing: ALE meta-analysis of evidence. Neurosci Lett. 452(3):262–267.",105,1600,1785,fMRI
 FPC+09b,"Fusar-Poli P, Placentino A, Carletti F, Landi P, Allen P, Surguladze S, Benedetti F, Abbamonte M, Gasparotti R, Barale F, et al. . 2009b. Functional atlas of emotional faces processing: a voxel-based meta-analysis of 105 functional magnetic resonance imaging studies. J Psychiatry & Neurosci. 34(6):418.",105,1600,1785,fMRI
 KES+14,"Kohn N, Eickhoff S, Scheller M, Laird A, Fox P, Habel U. 2014. Neural network of cognitive emotion regulation—an ALE meta-analysis and MACM analysis. Neuroimage. 87:345–355.",23,479,505,fMRI and PET
